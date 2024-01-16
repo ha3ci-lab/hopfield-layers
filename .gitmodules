@@ -1,3 +1,6 @@
 [submodule "examples/mnist_bags/AttentionDeepMIL"]
 	path = examples/mnist_bags/AttentionDeepMIL
 	url = https://github.com/AMLab-Amsterdam/AttentionDeepMIL
+[submodule "examples/modified_mnist_bags/AttentionDeepMIL"]
+	path = examples/modified_mnist_bags/AttentionDeepMIL
+	url = https://github.com/AMLab-Amsterdam/AttentionDeepMIL
